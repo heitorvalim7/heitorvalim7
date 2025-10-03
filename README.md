@@ -1,6 +1,6 @@
 # Hi there, I'm Heitor
 
-I am a Computer Engineering student at the Federal University of Espírito Santo (UFES). My studies are building my foundation in software development and logical problem-solving, and I am passionate about applying this growing knowledge to the world of blockchain technology.
+I am a Computer Engineering student at the Federal University of Espírito Santo (UFES). My studies are building my foundation in software development, logical problem-solving and engineering, and I am passionate about applying this growing knowledge to the world of blockchain technology.
 
 ## About Me
 
